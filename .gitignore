@@ -3,3 +3,5 @@ data.js
 public
 .vercel
 lib
+.env*
+!.env.example
